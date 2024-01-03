@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="font-epilogue flex justify-between items-center h-56 xl:h-72 px-16 xl:px-48">
           <Link to="/">
             <h1 className="font-bold text-16 xl:text-21">
-              Connect<span className="text-primary-default">Em</span>
+              Daily<span className="text-primary-default">Sync</span>
             </h1>
           </Link>
           <div className="flex items-center">
@@ -37,6 +37,7 @@ const Navbar = () => {
                   size="sm"
                   onClick={() => history.push('/register')}
                   className="mr-16"
+                  style={{ backgroundColor: '#FF5252', color: '#ffffff' }} 
                 >
                   Signup
                 </Button>
@@ -44,6 +45,7 @@ const Navbar = () => {
                   displayType="primary"
                   size="sm"
                   onClick={() => history.push('/login')}
+                  style={{ backgroundColor: '#26D07C', color: '#ffffff' }} 
                 >
                   Login
                 </Button>
