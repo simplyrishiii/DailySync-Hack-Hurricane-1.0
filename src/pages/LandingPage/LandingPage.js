@@ -72,7 +72,7 @@ function LandingPage() {
             <div className="ml-4 xl:ml-12">
               <Link to="/register">
                 <Button displayType="primary" className="mr-16">
-                  Get Started
+                  Let's Get Started
                 </Button>
               </Link>
               <Button displayType="secondary" onClick={scrollToDemo}>
@@ -91,7 +91,7 @@ function LandingPage() {
           <div className="text-center mt-56">
             <p>This is our purpose,</p>
             <p className="font-bold font-epilogue text-center text-24 xl:text-36">
-              To Connect <span className="text-primary-default">Them</span>.
+              To Sync<span className="text-primary-default">Them</span>.
             </p>
           </div>
         </div>
