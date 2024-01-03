@@ -1,3 +1,5 @@
 [build]
   base = "src"  # Adjust this line to match your actual base directory
   publish = "public"
+  command = "npm run build"
+
