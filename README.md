@@ -5,8 +5,11 @@ This Meeting Scheduler is a tool designed to streamline the process of organizin
 Features
 --------
 ~User-friendly Interface: Intuitive interface for easy navigation and usage.
+<br>
 ~Schedule Creation: Ability to create, edit, and delete meeting schedules.
+<br>
 ~Participant Management: Add and remove participants to meetings.
+<br>
 ~Notification System: Automated reminders and notifications for upcoming meetings.Calendar Integration: Seamless integration with popular calendar apps for convenience.
 
 Installation
