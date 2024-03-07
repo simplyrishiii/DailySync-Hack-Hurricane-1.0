@@ -23,6 +23,9 @@ Install dependencies: npm install or yarn installRun the application: npm start 
 Usage
 -----
 Sign Up/Login: Create an account or log in to get started.
+<br>
 Create a Meeting: Set the date, time, and participants for the meeting.
+<br>
 Manage Meetings: Edit or delete scheduled meetings as needed.
+<br>
 Receive Notifications: Get timely reminders for upcoming meetings.
