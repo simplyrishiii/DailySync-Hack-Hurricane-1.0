@@ -1,4 +1,4 @@
-Meeting Scheduler
+DailySync - Meeting Scheduler
 -----------------
 This Meeting Scheduler is a tool designed to streamline the process of organizing and managing meetings efficiently.
 
@@ -8,7 +8,7 @@ User-friendly Interface: Intuitive interface for easy navigation and usage.Sched
 
 Installation
 ------------
-To use the Meeting Scheduler, follow these steps:
+To use it, follow these steps:
 
 Clone the repository: git clone https://github.com/yourusername/meeting-scheduler.git
 
